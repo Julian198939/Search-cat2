@@ -293,4 +293,4 @@ def search():
 
 if __name__ == '__main__':
     app.run(debug=True, port=5005)
-    print("Hi I'm Julian, I love icecream.")
+    print("Hi I'm Julian, I love icecream, and I'm handsome.")
